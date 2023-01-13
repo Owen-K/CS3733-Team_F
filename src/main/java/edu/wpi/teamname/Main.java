@@ -13,6 +13,6 @@ public class Main {
 
   public void branch()
   {
-    System.out.println("Branch - Joseoh");
+    System.out.println("Branch - Joseph");
   }
 }

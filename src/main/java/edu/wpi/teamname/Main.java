@@ -7,4 +7,7 @@ public class Main {
     App.launch(App.class, args);
     System.out.println("Lindsey");
   }
+  public static void printLindseyBranch() {
+    System.out.println("Branch — Lindsey");
+  }
 }

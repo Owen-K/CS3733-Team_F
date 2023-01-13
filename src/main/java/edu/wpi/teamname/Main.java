@@ -6,5 +6,6 @@ public class Main {
     System.out.println("Connor");
     System.out.print("Joseph");
     App.launch(App.class, args);
+    System.out.println("Lindsey");
   }
 }

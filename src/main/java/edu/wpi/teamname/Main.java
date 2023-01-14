@@ -13,8 +13,12 @@ public class Main {
 
   }
 
-  public void branch()
-  {
+  public void branch() {
     System.out.println("Branch - Joseph");
+  }
+
+  public void branchAndrei() {
+        int b = 1;
+        System.out.println("Branch - Andrei");
   }
 }
